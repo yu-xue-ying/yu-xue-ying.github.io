@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Xueying Yu"
   avatar           : "XueyingYu.png"
-  bio              : "Postdoc at Stanford, study atmopsheric chemistry, climate-carbon interaction, and inverse modeling"
+  bio              : "Postdoc at Stanford: atmopsheric chemistry, climate-carbon, and inverse modeling"
   location         : 
   employer         :
-  pubmed           : "https://profiles.stanford.edu/xueying-yu"
+  webpage          : "https://profiles.stanford.edu/xueying-yu"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xjZnukgAAAAJ&hl=en&oi=ao"
-  email            : "yxy@stanford.edu"
+  email (yxy@stanford.edu)            : "yxy@stanford.edu"
   researchgate     :  
   uri              :
   bitbucket        :
