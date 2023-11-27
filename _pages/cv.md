@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: <ul>{%https://profiles.stanford.edu/xueying-yu%}
 author_profile: true
 redirect_from:
-  - https://profiles.stanford.edu/xueying-yu
+  - /cv
 ---
 
 {% include base_path %}
