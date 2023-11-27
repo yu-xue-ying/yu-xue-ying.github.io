@@ -1,15 +1,6 @@
 ---
-title: "Paper Title Number 1"
+title: "2019"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+(1) Millet, D. B., Conley, S. A., Gvakharia, A., Kort, E. A., Plant, G., Smith, M. L., and **Yu, X.**: Airborne measurements from the GEM study. Retrieved from the Data Repository for the University of Minnesota, https://doi.org/10.13020/f50r-zh70, 2019. [Available here](https://conservancy.umn.edu/handle/11299/208818)
