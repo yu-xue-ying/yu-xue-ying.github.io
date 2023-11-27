@@ -14,4 +14,4 @@ I received my PhD degree from University of Minnesota on May 2022, as future Inv
 
 The goal of my research is to understand the drivers of climate change. My work specifically focuses on greenhouse gases and air pollutants, to address critical knowledge gaps related to land-atmosphere-ocean exchange, climate-chemistry interactions, and their changes over time. I combine satellite and in-situ measurements to study the above issues over multiple scales. My work also seeks to develop advanced computational methods for analyzing big data, for example by formulating novel inverse modeling approaches for leveraging the vast information provided by next-generation satellite data. Specifically, my research quantifies methane emissions from point source level to the global budget.
 
-You can find me by email: yxy@stanford.edu.
+You can find me at email yxy@stanford.edu.
