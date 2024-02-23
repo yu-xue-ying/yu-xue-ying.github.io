@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: <ul>{%https://profiles.stanford.edu/xueying-yu%}
+permalink: /assets/CV_XueyingYu.pdf
 author_profile: true
 redirect_from:
   - /cv
