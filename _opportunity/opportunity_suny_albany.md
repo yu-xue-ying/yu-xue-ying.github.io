@@ -1,5 +1,5 @@
 ---
-title: "Opportunities at Xueying Yu's group, SUNY Albany
+title: "Opportunities at Xueying Yu's group, SUNY Albany"
 collection: opportunity
 ---
 
