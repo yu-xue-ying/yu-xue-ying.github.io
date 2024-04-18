@@ -250,11 +250,12 @@ defaults:
   # _opportunity
   - scope:
       path: ""
-      type: opportunity
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
