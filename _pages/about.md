@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Xueying Yu. **I will join the State University of New York at Albany (SUNY Albany) as a research faculty in Sep 2024. I am looking for highly motivated PhD students, postdocs, and visiting scholars. Please contact me (yxy@stanford.edu) if you are interested.**
+Hello! My name is Xueying Yu. **I will join the State University of New York at Albany (SUNY Albany) as a research faculty in Sep 2024. I am looking for highly motivated PhD students, postdocs, and visiting scholars. Please email me (yxy@stanford.edu) if you are interested.**
 
 I am a postdoctoral fellow in Earth System Science at the [Jackson Lab](https://jacksonlab.stanford.edu/), [Stanford University](https://www.stanford.edu/). I received my PhD degree from [University of Minnesota Twin Cities](https://twin-cities.umn.edu/) in 2022, as a future investigator of the NASA Earth and Space Science Fellowship, advised by [Prof. Dylan Millet](https://atmoschem.umn.edu/). I received bachelor degree in Atmospheric Science and master degree in Meteorology from [Nanjing University](https://as.nju.edu.cn/as_en/main.htm).
 
