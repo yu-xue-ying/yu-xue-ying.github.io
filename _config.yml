@@ -190,6 +190,9 @@ collections:
   opportunity:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -250,6 +253,15 @@ defaults:
   - scope:
       path: ""
       type: opportunity
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
