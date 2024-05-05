@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /assets/CV_XueyingYu.pdf
+permalink: /cv/
 author_profile: true
 ---
+
+[**CV**](assets/CV_XueyingYu.pdf)
