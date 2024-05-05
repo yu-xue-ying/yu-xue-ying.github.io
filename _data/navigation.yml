@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Experiences"
-    url: /experiences/
+    url: /_pages/experiences.md
 
   - title: "Research"
     url: /research/
