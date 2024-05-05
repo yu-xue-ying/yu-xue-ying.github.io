@@ -1,9 +1,11 @@
 ---
 layout: archive
 title: "Experiences"
-# permalink: //
+permalink: /experiences/
 author_profile: true
 ---
+
+
 **Appointment**<br>
 2022–2024 Postdoc fellow in Earth System Science<br>
 Stanford University, Department of Earth System Science
