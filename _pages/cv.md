@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[**CV**](https://yu-xue-ying/yu-xue-ying.github.io/assets/CV_XueyingYu.pdf)
+[**CV**](https://yu-xue-ying.github.io/assets/CV_XueyingYu.pdf)
