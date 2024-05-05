@@ -6,5 +6,5 @@ We study the coupled interactions across biogenic/anthropogenic emissions, atmos
 
 <p>
     <img src="https://yu-xue-ying.github.io/research/methane_emission_and_OH.png" alt>
-    <em><br>Simultaneous source + sink optimization using methane observations alone remains an ill-posed problem – even with the dense TROPOMI sampling coverage.</em>
+    <em><br>Simultaneous source + sink optimization using methane observations alone remains an ill-posed problem – even with the dense TROPOMI sampling coverage (Yu et al., 2023).</em>
 </p>
