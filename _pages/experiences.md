@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <br>
-**Appointment**<br>
+**Appointments**<br>
 2022–2024 Postdoc fellow in Earth System Science<br>
-Stanford University, Doerr School of Sustainability
+Stanford University, Doerr School of Sustainability<br>
 
 **Education**<br>
 2017–2022 Ph.D. in Land and Atmospheric Science<br>
