@@ -1,5 +1,5 @@
 ---
-title: "PhD and Postdoctoral Position in Atmospheric Chemistry, SUNY Albany"
+title: "PhD and Postdoctoral Positions in Atmospheric Chemistry, SUNY Albany"
 collection: opportunity
 date: 06 May 2024
 ---
