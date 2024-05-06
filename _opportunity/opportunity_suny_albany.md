@@ -1,9 +1,9 @@
 ---
-title: "Opportunities at Xueying Yu's group, SUNY Albany"
+title: "PhD and Postdoctoral Position in Atmospheric Chemistry, SUNY Albany"
 collection: opportunity
 ---
 
-_**Full-funded PhD and postdoc positions, Fall 2024 or Spring 2025**_
+_**Fall 2024 or Spring 2025**_
 
 We are looking for 1-2 PhD students or postdoc to join [Xueying Yu's group](https://yu-xue-ying.github.io/) at [the State University of New York at Albany (SUNY Albany)](https://www.albany.edu), with a start date in Fall 2024 or Spring 2025. Full tuition and stipend support will be provided.
 
