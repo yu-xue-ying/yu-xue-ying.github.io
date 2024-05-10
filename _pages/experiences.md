@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <br>
+For a full CV, send a request to: yxy@stanford.edu<br>
+
 **Appointments**<br>
 2022–2024 Postdoc fellow in Earth System Science<br>
 Stanford University, Doerr School of Sustainability<br>
