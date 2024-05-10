@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 <br>
-For a full CV, send a request to: yxy@stanford.edu<br>
-
 **Appointments**<br>
 2022–2024 Postdoc fellow in Earth System Science<br>
 Stanford University, Doerr School of Sustainability<br>
@@ -19,3 +17,6 @@ University of Minnesota-Twin Cities, Department of Soil Water and Climate<br><br
 Nanjing University, School of Atmospheric Sciences<br><br>
 2010–2014 B.S. in Atmospheric Science<br>
 Nanjing University, School of Atmospheric Sciences
+<br>
+_**For a full CV, send a request to: yxy@stanford.edu**_<br>
+
