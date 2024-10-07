@@ -8,7 +8,7 @@ author_profile: true
 <br>
 **Appointments**<br>
 2024–present Research Faculty in Atmospheric Chemistry<br>
-The State University of New York at Albany, Atmospheric Science Research Center<br><br>
+The State University of New York at Albany, Atmospheric Sciences Research Center<br><br>
 2022–2024 Postdoc fellow in Earth System Science<br>
 Stanford University, Doerr School of Sustainability<br>
 
