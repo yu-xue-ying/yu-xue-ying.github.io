@@ -193,6 +193,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  code_and_data:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -253,6 +256,15 @@ defaults:
   - scope:
       path: ""
       type: opportunity
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _code_and_data
+  - scope:
+      path: ""
+      type: code_and_data
     values:
       layout: single
       author_profile: true

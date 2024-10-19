@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: /publications/
            
+  - title: "Code & Data"
+    url: /code_and_data/
+          
 #  - title: "CV"
 #    url: /cv/
                
