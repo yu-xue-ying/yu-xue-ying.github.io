@@ -1,30 +1,43 @@
+---
+layout: archive
+title: "Group"
+permalink: /group/
+author_profile: true
+---
+
 # Current Group Members
 
-<h2><strong>Xueying Yu</strong></h2>
-<img src="/assets/images/group/yu.jpg" alt="Xueying Yu" style="width:200px; border-radius: 10px; margin-bottom: 10px;"><br>
-<h3>Research Faculty</h3>
-**Email:** xyu2@albany.edu  
-**Office:** ETEC 313  
-**Ph.D.:** University of Minnesota Twin Cities  
-**Postdoc:** Stanford University  
-**Research Interests:** Atmospheric Chemistry, Carbon Emissions, Bayesian Inversions  
-**Bio:**  
-The goal of my research is to understand the drivers of climate change. Our work specifically focuses on greenhouse gases and air pollutants to address critical knowledge gaps related to land-atmosphere-ocean exchange, climate-chemistry interactions, and their changes over time. We combine satellite and in-situ measurements to study these issues across multiple scales, with a focus on quantifying methane emissions from point sources to the global budget. Our group also develops advanced computational methods for analyzing big data, including novel inverse modeling approaches that leverage next-generation satellite observations.  
-Yu's research integrates remote sensing, Earth system modeling, and ground-based observations to investigate the sources, formation, and impacts of air pollution.
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="/group/yu.jpg" alt="Xueying Yu" style="width: 180px; border-radius: 10px;">
+  <div>
+    <h2><strong>Xueying Yu</strong></h2>
+    <h3>Research Faculty</h3>
+    <p><strong>Email:</strong> xyu2@albany.edu<br>
+    <strong>Office:</strong> ETEC 313<br>
+    <strong>Ph.D.:</strong> University of Minnesota Twin Cities<br>
+    <strong>Postdoc:</strong> Stanford University</p>
 
----
+    <p><strong>Research Interests:</strong> Atmospheric Chemistry, Carbon Emissions, Bayesian Inversions</p>
+
+    <p><strong>Bio:</strong><br>
+    The goal of my research is to understand the drivers of climate change... [your full bio here].</p>
+  </div>
+</div>
 
 # Alumni
 
-<h2><strong>Jason Marte</strong></h2>
-<img src="/assets/images/group/jason.jpg" alt="Jason Marte" style="width:200px; border-radius: 10px; margin-bottom: 10px;"><br>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="/group/jason.jpg" alt="Jason Marte" style="width: 180px; border-radius: 10px;">
+  <div>
+    <h2><strong>Jason Marte</strong></h2>
+    <h3>Undergraduate Researcher</h3>
+    <p><em>NSF REU Program, University at Albany (Summer 2025)</em><br>
+    Junior in Environmental Science, Stony Brook University</p>
 
-<h3>Undergraduate Researcher</h3>
-<em>NSF Research Experiences for Undergraduates (REU) program, University at Albany (Summer 2025)</em>  
-Junior in Environmental Science, Stony Brook University  
+    <p><strong>Bio:</strong><br>
+    Jason is a rising junior at Stony Brook University... [continue bio]</p>
 
-**Bio:**  
-Jason is a rising junior at Stony Brook University majoring in Environmental Science and a member of the Simons STEM Scholars Program. In his free time, he enjoys boxing.
-
-**Research Project:**  
-Quantify NO<sub>2</sub> emissions using TEMPO satellite data.
+    <p><strong>Research Project:</strong><br>
+    Quantify NO<sub>2</sub> emissions based on TEMPO satellite data.</p>
+  </div>
+</div>
