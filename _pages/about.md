@@ -16,22 +16,13 @@ We are atmospheric scientists at the [Atmospheric Sciences Research Center](http
 ## What We Do
 
 - **Quantify Emissions Across Scales**  
-  We combine satellite observations, in-situ measurements, and advanced computational methods to quantify emissions from local to global levels.
+  We combine satellite observations, in-situ measurements, and advanced computational methods to quantify emissions from local to global levels. We also incorporate isotopic measurements to distinguish emission sources and sinks.
 
 - **Focus on Methane**  
   Methane is a key focus due to its potency as a greenhouse gas. We develop inverse modeling frameworks to constrain emissions from point sources to the global budget.
 
 - **Leverage Next-Generation Satellites**  
-  We utilize data from cutting-edge satellite missions to improve our understanding of methane sources and sinks.
-
-- **Use Isotopic Fingerprints**  
-  We incorporate δ¹³C-CH₄ and δD-CH₄ isotopic measurements to distinguish between biogenic, thermogenic, and pyrogenic methane sources.
-
-- **Address Atmospheric Chemistry Uncertainties**  
-  Our research accounts for the variability of atmospheric oxidants, especially OH, which strongly influences methane lifetime and emission estimates.
-
-- **Apply Data Science and Machine Learning**  
-  We integrate earth system science with machine learning and data assimilation to bridge critical knowledge gaps.
+  We utilize data from cutting-edge satellite missions to improve our understanding of trace gases. We integrate earth system science with machine learning and data assimilation to bridge critical knowledge gaps.
 
 - **Support Climate Solutions**  
   Our work informs data-driven strategies for climate change mitigation through improved emissions tracking and source attribution.
