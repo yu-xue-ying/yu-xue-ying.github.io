@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-# About Our Research
+# Welcome to Our Lab
 
 We are atmospheric scientists at the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc),  
 [State University of New York at Albany](https://www.albany.edu/). Our research focuses on understanding the drivers of climate change, with an emphasis on greenhouse gases and air pollutants.
 
-## What We Do
+# What We Do
 
 - **Quantify Emissions Across Scales**  
   We combine satellite observations, in-situ measurements, and advanced computational methods to quantify emissions from local to global levels. We also incorporate isotopic measurements to distinguish emission sources and sinks.
