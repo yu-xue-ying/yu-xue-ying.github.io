@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Our Lab
+# Welcome to the Carbon-Climate Lab
 
 We are atmospheric scientists at the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc),  
 [State University of New York at Albany](https://www.albany.edu/). Our research focuses on understanding the drivers of climate change, with an emphasis on greenhouse gases and air pollutants.
