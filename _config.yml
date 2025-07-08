@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Carbon-Climate Lab"
 title_separator          : "-"
-name                     : &name "Xueying Yu"
+name                     : &name "Carbon-Climate Lab"
 description              : &description "personal description"
 url                      : https://yu-xue-ying.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
