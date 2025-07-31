@@ -2,7 +2,7 @@
 title: "Carbon-Climate"
 collection: research
 ---
-We study the coupled interactions across biogenic/anthropogenic emissions, atmospheric chemistry, and the broader climate. Example works are diagnosing the [temperature and hydrological dependence of methane emissions](https://acp.copernicus.org/articles/23/3325/2023/), evaluating the [sensitivity of the global methane budget to atmospheric oxidation](https://acp.copernicus.org/articles/23/3325/2023/), and evaluating [the relationship between rainfall and NO2 emissions] (https://storymaps.arcgis.com/stories/14001ed500ed42e98513f35beec13a53).
+We study the coupled interactions across biogenic/anthropogenic emissions, atmospheric chemistry, and the broader climate. Example works are diagnosing the [temperature and hydrological dependence of methane emissions](https://acp.copernicus.org/articles/23/3325/2023/), evaluating the [sensitivity of the global methane budget to atmospheric oxidation](https://acp.copernicus.org/articles/23/3325/2023/), and evaluating [the relationship between rainfall and NO2 emissions](https://storymaps.arcgis.com/stories/14001ed500ed42e98513f35beec13a53).
 
 <p>
     <img src="https://yu-xue-ying.github.io/research/methane_emission_and_OH.png" alt>
