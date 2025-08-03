@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to the Carbon-Climate Lab
+# Welcome to the Atmospheric Modeling & Remote Sensing Lab
 
 We are atmospheric scientists at the [Atmospheric Sciences Research Center](https://www.albany.edu/asrc),  
 [State University of New York at Albany](https://www.albany.edu/). Our research focuses on understanding the drivers of climate change, with an emphasis on greenhouse gases and air pollutants.
 
 - **Quantify Emissions Across Scales**  
   We combine satellite observations, in-situ measurements, and advanced computational methods to quantify emissions from local to global levels. We also incorporate isotopic measurements to distinguish emission sources and sinks.
-
-- **Focus on Methane**  
-  Methane is a key focus due to its potency as a greenhouse gas. We develop inverse modeling frameworks to constrain emissions from point sources to the global budget.
 
 - **Leverage Next-Generation Satellites**  
   We utilize data from cutting-edge satellite missions to improve our understanding of trace gases. We integrate earth system science with machine learning and data assimilation to bridge critical knowledge gaps.
