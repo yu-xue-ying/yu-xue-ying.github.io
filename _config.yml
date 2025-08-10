@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atmospheric Modeling Lab"
+title                    : "AM-RS Lab"
 title_separator          : "-"
 name                     : &name "Atmospheric Modeling Lab"
 description              : &description "personal description"
