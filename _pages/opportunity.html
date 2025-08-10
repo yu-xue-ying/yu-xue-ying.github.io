@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-{% assign sorted_opportunities = site.opportunity | sort: 'date'%}
+{% assign sorted_opportunities = site.opportunity | sort: 'date'| reverse %}
 {% for post in site.opportunity %}
   {% include archive-single.html %}
 {% endfor %}
