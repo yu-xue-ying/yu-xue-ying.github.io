@@ -1,7 +1,7 @@
 ---
 title: "[2026 Fall/Spring] PhD and Postdoctoral Positions, Remote Sensing, Atmospheric Chemistry, SUNY Albany"
 collection: opportunity
-date: 09 Aug 2025
+date: 2025-08-10
 ---
 
 We are looking for 1-2 PhD students or postdoc to join [Xueying Yu's group](https://yu-xue-ying.github.io/) at [the State University of New York at Albany (SUNY Albany)](https://www.albany.edu), with a start date in Fall 2026 or Spring 2026. Full tuition and stipend support will be provided.
