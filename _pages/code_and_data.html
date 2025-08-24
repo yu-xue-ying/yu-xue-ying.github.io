@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-
-{% for post in site.code_and_data %}
+{% assign sorted_code_data = site.code_and_data | sort: 'date' | reverse %}
+{% for post in sorted_code_data %}
   {% include archive-single.html %}
 {% endfor %}
