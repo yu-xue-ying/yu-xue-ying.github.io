@@ -4,7 +4,7 @@ collection: code_and_data
 date: 8 Aug 2025
 ---
 
-**Dataset**    
+**Dataset**<br>
 Data: a_summary_emission_ensemble_201805_201910.nc<br>
 Contact: Xueying Yu (xyu2@albany.edu); Dylan Millet (dbm@umn.edu)<br>
 
@@ -27,6 +27,6 @@ For analysis, we recommend using the optimized emission ensemble mean: prior * (
 
 **[Download](https://github.com/yu-xue-ying/data/tree/main/1_methane_emissions)**
 
-**Citation**
+**Citation**<br>
 Yu, X., Millet, D. B., Henze, D. K., Turner, A. J., Delgado, A. L., Bloom, A. A., and Sheng, J.: A high-resolution satellite-based map of global methane emissions reveals missing wetland, fossil fuel, and monsoon sources, Atmos. Chem. Phys., 23, 3325–3346, https://doi.org/10.5194/acp-23-3325-2023, 2023.<br>
-https://acp.copernicus.org/articles/23/3325/2023
+[Available Here](https://acp.copernicus.org/articles/23/3325/2023)
