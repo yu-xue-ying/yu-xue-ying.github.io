@@ -1,14 +1,12 @@
 ---
 title: "[2026 Fall/Spring] PhD and Postdoctoral Positions, Remote Sensing, Atmospheric Chemistry, SUNY Albany"
 collection: opportunity
-date: 2025-08-10
+date: 2025-10-23
 ---
 
 We are looking for 1-2 PhD students or postdoc to join [Xueying Yu's group](https://yu-xue-ying.github.io/) at [the State University of New York at Albany (SUNY Albany)](https://www.albany.edu), with a start date in Fall 2026 or Spring 2026. Full tuition and stipend support will be provided.
 
-Example study topics for this position include applying satellite remote sensing techniques in atmospheric chemistry, modeling greenhouse gases and air pollutants using chemical transport models, and conducting Bayesian inversion analyses to interpret carbon and climate processes. The candidates are expected to write and publish results in scientific journals, and present research outcomes at scientific conferences. 
-
-The initial appointment for postdoc is 1 year, with the possibility of extension depending on the candidate’s performance and funding availability.
+Example study topics for this position include applying satellite remote sensing techniques in atmospheric chemistry, modeling the fate of greenhouse gases and air pollutants, and Bayesian inversion analyses. The candidates are expected to write and publish results in scientific journals, and present research outcomes at scientific conferences. 
 
 Candidates seeking for PhD degree should apply through the PhD program in the [Department of Atmospheric and Environmental Sciences at SUNY Albany](https://www.albany.edu/daes). Please review the application instructions and mention your interest in working with our group in your application.
 
