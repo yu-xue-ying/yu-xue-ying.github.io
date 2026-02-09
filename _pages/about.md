@@ -24,11 +24,3 @@ We are atmospheric scientists at the [Atmospheric Sciences Research Center](http
 
 **We are looking for highly motivated PhD students, postdocs, and visiting scholars. Please email me (xyu2@albany.edu) if you are interested.**
 
-<div style="text-align:center; margin: 1.2em 0;">
-  <div style="max-width: 420px; margin: 0 auto;">
-    <script type="text/javascript" id="mapmyvisitors"
-      src="//mapmyvisitors.com/map.js?d=h3Qy0k0A5YHcZ-OUZtFl4X7_VF0eiMzrmtyyA_wIx-M&cl=ffffff&w=a">
-    </script>
-  </div>
-</div>
-
