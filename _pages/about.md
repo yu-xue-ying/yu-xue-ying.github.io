@@ -30,7 +30,7 @@ We are atmospheric scientists at the [Atmospheric Sciences Research Center](http
   margin: 1.2em 0;
 ">
   <div style="
-    transform: scale(0.5);
+    transform: scale(0.7);
     transform-origin: top center;
   ">
     <script type="text/javascript" id="mapmyvisitors"
