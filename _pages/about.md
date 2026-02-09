@@ -23,4 +23,3 @@ We are atmospheric scientists at the [Atmospheric Sciences Research Center](http
   Our work informs data-driven strategies for climate change mitigation through improved emissions tracking and source attribution.
 
 **We are looking for highly motivated PhD students, postdocs, and visiting scholars. Please email me (xyu2@albany.edu) if you are interested.**
-
