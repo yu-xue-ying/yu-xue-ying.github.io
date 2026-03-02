@@ -20,6 +20,6 @@ We are atmospheric scientists at the [Atmospheric Sciences Research Center](http
   We combine measurements from multiple observational platforms with advanced computational methods to quantify emissions from local to global levels. We also incorporate isotopic measurements to distinguish emission sources and sinks. 
 
 - **Support Climate Solutions**  
-  Our work informs data-driven mitigation strategies through improved emissions tracking and source attribution.
+  Our work informs data-driven mitigation strategies through improved emission tracking and source attribution.
 
 **We are looking for highly motivated PhD students, postdocs, and visiting scholars. Please email me (xyu2@albany.edu) if you are interested.**
