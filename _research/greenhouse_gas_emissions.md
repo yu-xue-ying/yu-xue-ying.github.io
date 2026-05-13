@@ -1,6 +1,7 @@
 ---
 title: "Greenhouse Gas Emissions"
 collection: research
+author_profile: false
 ---
 Methane is a crucial greenhouse gas whose emission reduction can effectively mitigate climate change on a decadal time scale. Our study explores methane emission characteristics from point sources to global scale. We further combine isotopic measurements with satellite data to improve emission quantification. <br><br>
 
