@@ -3,6 +3,7 @@ title: "Global Methane, CO, and MCF Emissions - Year 2020"
 collection: code_and_data
 date: 27 Apr 2026
 author_profile: false
+layout: archive_no_author
 ---
 
 **Dataset**<br>
