@@ -50,7 +50,7 @@ Methane is a crucial greenhouse gas whose emission reduction can effectively mit
   </div>
   <div class="image">
     <img src="https://yu-xue-ying.github.io/research/methane_emission_and_OH.png">
-    <em><br>Global methane budget in year 2019 (Yu et al., 2023).</em>
+    <em><br>Global methane budget in year 2019. Simultaneous source + sink optimization using methane observations alone remains an ill-posed problem – even with the dense TROPOMI sampling coverage. (Yu et al., 2023).</em>
   </div>
 </div>
 
