@@ -18,4 +18,9 @@ Methane is a crucial greenhouse gas whose emission reduction can effectively mit
         <img src="https://yu-xue-ying.github.io/research/regional_emission_quantification.png" alt>
         <em><br>Regional emission quantification in the Upper Midwest (Yu et al., 2021).</em>
     </p><br>
+
+    <p>
+        <img src="https://yu-xue-ying.github.io/research/isotope_methane.png" alt>
+        <em><br>Isotopic measurements revise tropical/subtropical methane emission estimates (Yu et al., 2026).</em>
+    </p><br>
 </div>
