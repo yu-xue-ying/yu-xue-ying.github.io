@@ -2,6 +2,7 @@
 title: "Global Methane Emissions - Year 2019, 0.1 degree resolution"
 collection: code_and_data
 date: 8 Aug 2025
+author_profile: false
 ---
 
 **Dataset**<br>
