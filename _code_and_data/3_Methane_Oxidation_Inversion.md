@@ -2,6 +2,7 @@
 title: "Methane Oxidation Chain Inversion"
 collection: code_and_data
 date: 27 Apr 2026
+author_profile: false
 ---
 
 **Code**    
