@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "AM-RS Lab"
 title_separator          : "-"
-name                     : &name "Atmospheric Modeling Lab"
+name                     : &name "Xueying Yu"
 description              : &description "personal description"
 url                      : https://yu-xue-ying.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
