@@ -2,6 +2,7 @@
 title: "TROPOMI Methane Inversion"
 collection: code_and_data
 date: 19 Oct 2024
+author_profile: false
 ---
 
 **Code**    
