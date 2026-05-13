@@ -1,6 +1,7 @@
 ---
 title: "[2025 Fall/Spring] PhD and Postdoctoral Positions in Atmospheric Chemistry, SUNY Albany"
 collection: opportunity
+layout: archive_no_author
 date: 2024-05-06
 author_profile: false
 ---
