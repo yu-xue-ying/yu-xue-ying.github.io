@@ -28,4 +28,4 @@ EMIS_MCF_UNC: Uncertainties of the global MCF emissions<br>
 
 **Citation**<br>
 Yu, X., & Millet, D. (2026). Global Emissions of Methane, Carbon Monoxide, and Methyl Chloroform for the Year 2020 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19686597<br><br>
-Yu, X., Millet, D. B., Henze, D. K., Worden, H., Vigouroux, C., Patra, P., Hill, J. D., & Jackson, R. B. (2026). Multi-species constraints resolve methane source versus sink changes: lessons from 2020. Earth's Future, in press.
+Yu, X., Millet, D. B., Henze, D. K., Worden, H., Vigouroux, C., Patra, P., Hill, J. D., & Jackson, R. B. (2026). Multi-species constraints resolve methane source versus sink changes: lessons from 2020. Earth's Future, 14, e2025EF007067, 10.1029/2025EF007067.
