@@ -1,0 +1,32 @@
+---
+title: "Global Methane Emissions and Its Isotopic Source Signatures - Year 2019-2021"
+collection: code_and_data
+date: 14 July 2026
+author_profile: false
+layout: archive_no_author
+---
+
+**Dataset**<br>
+Data: Global_monthly_emissions_CH4_isotopes_ethane_2019_2021_best_case.nc<br>
+Contact: Xueying Yu (xyu2@albany.edu); Rob Jackson<br>
+
+**Description**<br>
+Global monthly emissions of methane and its isotopic source signatures (d13C-CH4 and dD-CH4) for the year 2019-2021. Estimates are derived using a four-dimensional variational (4D‑Var) data assimilation in the GEOS-Chem Adjoint Model that integrates space‑based observations of methane from the TROPOspheric Monitoring Instrument (TROPOMI), along with in situ NOAA measurements of methane isotopes.<br><br>
+Spatial resolution: 4° × 5°<br>
+Temporal resolution: monthly<br>
+Time period: Jan-Dec, 2019–2021<br>
+
+Variables<br>
+EMIS_CH4_OPT: Global methane emissions from methane isotopic-enabled assimilation<br>
+EMIS_CH4_OPT_UNC: Uncertainties of the global methane optimized emissions<br>
+EMIS_CH4_OPT_ANTH: Global anthropogenic methane emissions from methane isotopic-enabled assimilation<br>
+EMIS_CH4_OPT_NAT: Global nature methane emissions from methane isotopic-enabled assimilation<br>
+EMIS_CH4_PRIOR: Prior methane emissions from inventories<br>
+SIG_d13C_CH4_OPT: Global methane d13C-CH4 source signatures from methane isotopic-enabled assimilation<br>
+SIG_dD_CH4_OPT: Global methane dD-CH4 source signatures from methane isotopic-enabled assimilation<br>
+
+**[Download](https://doi.org/10.5281/zenodo.21364156)**
+
+**Citation**<br>
+Yu, X.& Jackson, R. (2026). Global Monthly Emissions of Methane and Its Isotopic Source Signatures for the Year 2019-2021 [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21364156<br><br>
+Yu, X., Canadell, J. G., Henze, D. K., Patra, P. K., Saunois, M., Cen, X., Lan, X., Riddell-Young, B., Röckmann, T., and Jackson, R. B.: Incorporating methane isotopologues alters tropical and subtropical methane emission estimates. Nature Communications, 17, 6002, 10.1038/s41467-026-72668-2, 2026.
