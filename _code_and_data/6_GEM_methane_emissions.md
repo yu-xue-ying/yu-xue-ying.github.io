@@ -11,7 +11,7 @@ Data: GEM_ensemble_mean_methane_wetland_emissions.nc<br>
 Contact: Xueying Yu (xyu2@albany.edu); Dylan B. Millet<br>
 
 **Description**<br>
-Wetland methane emission estimates from the GEM campaign. Estimates are derived using a multi-inversion system, including analytical sectoral inversions, GMM analytical inversions, GMM-ADJ 4D-Var inversion, and GEOS-Chem ADJ 4D-Var inversion. These inversions integrate aircraft‑based observations of methane from the GEM campaign.<br><br>
+Wetland methane emission estimates from the GEM campaign. Estimates are derived using a multi-inversion system, including analytical sectoral inversions, GMM analytical inversions, GMM-ADJ 4D-Var inversions, and GEOS-Chem ADJ 4D-Var inversions. These inversions integrate aircraft‑based observations of methane from the GEM campaign.<br><br>
 Spatial resolution: 0.25° × 0.3125°<br>
 Temporal resolution: seasons<br>
 Time period: 2017–2018<br>
