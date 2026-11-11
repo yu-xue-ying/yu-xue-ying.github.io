@@ -9,7 +9,7 @@ author_profile: false
   You can also find our articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-You can also find our articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xjZnukgAAAAJ&hl=en&oi=ao).
+You can also find our articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xjZnukgAAAAJ&hl=en&oi=ao). Bolded names are Yu Group members.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
